@@ -84,6 +84,12 @@ backend
 │       ├── supplier_views
 │       └── user
 └── images
+    ├── algolia
+    │   ├── men
+    │   └── women
+    ├── images
+    ├── men
+    └── women
 
 
 
@@ -95,7 +101,7 @@ frontend
     │   ├── account
     │   ├── booking
     │   ├── chart
-    │   ├── country-card
+    │   ├── coutry-card
     │   ├── flight-search-components
     │   ├── form-input
     │   ├── logo
@@ -106,7 +112,7 @@ frontend
     │   ├── sign-in
     │   ├── sign in popup
     │   ├── slider input
-    │   └── table
+    │   └── tabel
     ├── context
     │   ├── admin
     │   ├── airline_company
